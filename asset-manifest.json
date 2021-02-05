@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-shop-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/e-shop-project/static/js/main.7c826dda.chunk.js",
+    "main.js.map": "/e-shop-project/static/js/main.7c826dda.chunk.js.map",
+    "runtime-main.js": "/e-shop-project/static/js/runtime-main.77469a51.js",
+    "runtime-main.js.map": "/e-shop-project/static/js/runtime-main.77469a51.js.map",
+    "static/js/2.3a57e2fe.chunk.js": "/e-shop-project/static/js/2.3a57e2fe.chunk.js",
+    "static/js/2.3a57e2fe.chunk.js.map": "/e-shop-project/static/js/2.3a57e2fe.chunk.js.map",
+    "static/js/3.03c97f6a.chunk.js": "/e-shop-project/static/js/3.03c97f6a.chunk.js",
+    "static/js/3.03c97f6a.chunk.js.map": "/e-shop-project/static/js/3.03c97f6a.chunk.js.map",
+    "index.html": "/e-shop-project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/e-shop-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3a57e2fe.chunk.js.LICENSE.txt": "/e-shop-project/static/js/2.3a57e2fe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/e-shop-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77469a51.js",
+    "static/js/2.3a57e2fe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7c826dda.chunk.js"
+  ]
+}
